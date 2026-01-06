@@ -8,8 +8,10 @@ This repository contains the code files and report developed and resources provi
 - `Mid Term Report/` – This 5-page report outlines the theoretical knowledge gained in the first two weeks of the project which is essentially:
  1. data collection, i.e, acquiring news articles and social media posts about target companies using APIs
   2. sentiment analysis where we apply Natural Language Processing models (like FinBERT) to extract positive or negative signals.
--Resources provided also had several challenges, codes of which were provided, understood and implemented.
-- 'week 1 reading and week 2/' reading are reference PDFs provided during the project in the first two weeks.
+
+Resources provided also had several challenges, codes of which were provided, understood and implemented.
+
+- `week 1 reading and week 2 reading/` are reference PDFs provided during the project in the first two weeks.
 
 
 
